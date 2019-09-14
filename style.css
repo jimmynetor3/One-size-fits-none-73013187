@@ -1,0 +1,27 @@
+/* All <a> elements. */
+div {
+  color: red;
+}
+  /* All <b> elements. */
+b {
+  color: green;
+}
+
+div { 
+  font-size: 2.1em; 
+}
+span { 
+  font-size: 1.6em;
+ 
+ 
+}
+off {
+  background-image: url("https://cdn.businessinsider.nl/wp-content/uploads/2018/10/mark-rutte-dividendtaks-afschaffing-e1539613731172-400x302.jpg") ;
+}
+
+body{
+background-color : powderblue;
+} 	
+img {
+  width: 15%;
+}
